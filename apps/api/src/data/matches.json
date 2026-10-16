@@ -1,0 +1,433 @@
+[
+  {
+    "id": "3e5e9746-08f0-4410-9f7d-6e8d35d0da5e",
+    "customerId": "seed-customer-006",
+    "candidateCustomerId": "seed-customer-068",
+    "score": 60,
+    "scoreBreakdown": {
+      "mutualPreferences": 10,
+      "familyExpectations": 2.5,
+      "lifestyle": 25,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 5,
+      "language": 2.5
+    },
+    "explanation": {
+      "summary": "Compatibility score 60/100. The candidate is younger, matching the configured preference.",
+      "strengths": [
+        "The candidate is younger, matching the configured preference.",
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule."
+      ],
+      "considerations": [
+        "No direct profession preference match was found.",
+        "The pets preferences need further discussion."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:41:33.532Z",
+    "updatedAt": "2026-10-15T16:41:33.532Z"
+  },
+  {
+    "id": "c1208454-283e-494c-82ab-83ba4535a3be",
+    "customerId": "seed-customer-006",
+    "candidateCustomerId": "seed-customer-098",
+    "score": 50,
+    "scoreBreakdown": {
+      "mutualPreferences": 10,
+      "familyExpectations": 2.5,
+      "lifestyle": 25,
+      "careerAndEducation": 5,
+      "locationAndRelocation": 5,
+      "language": 2.5
+    },
+    "explanation": {
+      "summary": "Compatibility score 50/100. The candidate is younger, matching the configured preference.",
+      "strengths": [
+        "The candidate is younger, matching the configured preference.",
+        "The candidate is shorter, matching the configured preference."
+      ],
+      "considerations": [
+        "The candidate does not earn less than the customer.",
+        "No direct profession preference match was found.",
+        "The pets preferences need further discussion."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:41:33.532Z",
+    "updatedAt": "2026-10-15T16:41:33.532Z"
+  },
+  {
+    "id": "8212750c-cc54-43af-87ef-eb64fea47310",
+    "customerId": "seed-customer-006",
+    "candidateCustomerId": "seed-customer-108",
+    "score": 50,
+    "scoreBreakdown": {
+      "mutualPreferences": 20,
+      "familyExpectations": 2.5,
+      "lifestyle": 10,
+      "careerAndEducation": 5,
+      "locationAndRelocation": 10,
+      "language": 2.5
+    },
+    "explanation": {
+      "summary": "Compatibility score 50/100. The candidate is shorter, matching the configured preference.",
+      "strengths": [
+        "The candidate is shorter, matching the configured preference.",
+        "Both profiles selected \"maybe\" for children.",
+        "Both profiles have compatible relocation preferences.",
+        "Both profiles have compatible pets preferences."
+      ],
+      "considerations": [
+        "The candidate is not younger than the customer.",
+        "The candidate does not earn less than the customer.",
+        "No direct profession preference match was found."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:41:33.532Z",
+    "updatedAt": "2026-10-15T16:41:33.532Z"
+  },
+  {
+    "id": "ba3cded6-feef-4cb0-b0e2-e0839da4a0ad",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-086",
+    "score": 68,
+    "scoreBreakdown": {
+      "mutualPreferences": 25,
+      "familyExpectations": 5,
+      "lifestyle": 10,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 7.5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 68/100. The candidate is shorter, matching the configured preference.",
+      "strengths": [
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Both profiles have compatible children preferences.",
+        "Both profiles selected \"maybe\" for relocation.",
+        "Shared languages: english.",
+        "Shared values: family-oriented, traditional.",
+        "Both profiles have compatible pets preferences."
+      ],
+      "considerations": [
+        "The candidate is not younger than the customer.",
+        "No direct profession preference match was found."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "45d35a89-c39e-499d-9245-26f819d6a6a2",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-116",
+    "score": 68,
+    "scoreBreakdown": {
+      "mutualPreferences": 25,
+      "familyExpectations": 5,
+      "lifestyle": 10,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 7.5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 68/100. The candidate is shorter, matching the configured preference.",
+      "strengths": [
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Both profiles have compatible children preferences.",
+        "Both profiles selected \"maybe\" for relocation.",
+        "Shared languages: english.",
+        "Shared values: family-oriented, traditional.",
+        "Both profiles have compatible pets preferences."
+      ],
+      "considerations": [
+        "The candidate is not younger than the customer.",
+        "No direct profession preference match was found."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "59a2811a-6393-4937-8ffc-6590c6c61222",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-068",
+    "score": 65,
+    "scoreBreakdown": {
+      "mutualPreferences": 25,
+      "familyExpectations": 2.5,
+      "lifestyle": 10,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 7.5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 65/100. The candidate is shorter, matching the configured preference.",
+      "strengths": [
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Both profiles have compatible children preferences.",
+        "Both profiles selected \"maybe\" for relocation.",
+        "Shared languages: english.",
+        "Both profiles have compatible pets preferences."
+      ],
+      "considerations": [
+        "The candidate is not younger than the customer.",
+        "No direct profession preference match was found."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "823f916e-8d45-4e6f-a959-205870533713",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-113",
+    "score": 65,
+    "scoreBreakdown": {
+      "mutualPreferences": 25,
+      "familyExpectations": 2.5,
+      "lifestyle": 10,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 7.5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 65/100. The candidate is shorter, matching the configured preference.",
+      "strengths": [
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Both profiles have compatible children preferences.",
+        "Both profiles selected \"maybe\" for relocation.",
+        "Shared languages: english.",
+        "Both profiles have compatible pets preferences."
+      ],
+      "considerations": [
+        "The candidate is not younger than the customer.",
+        "No direct profession preference match was found."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "05f7d724-6f97-486d-b173-b4713fab1292",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-072",
+    "score": 60,
+    "scoreBreakdown": {
+      "mutualPreferences": 10,
+      "familyExpectations": 0,
+      "lifestyle": 25,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 60/100. The candidate is younger, matching the configured preference.",
+      "strengths": [
+        "The candidate is younger, matching the configured preference.",
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Shared languages: english."
+      ],
+      "considerations": [
+        "No direct profession preference match was found.",
+        "No direct values preference match was found.",
+        "The pets preferences need further discussion."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "0388991c-cc6b-4a0e-a0b5-f3e5f0e988b5",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-075",
+    "score": 60,
+    "scoreBreakdown": {
+      "mutualPreferences": 10,
+      "familyExpectations": 0,
+      "lifestyle": 25,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 60/100. The candidate is younger, matching the configured preference.",
+      "strengths": [
+        "The candidate is younger, matching the configured preference.",
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Shared languages: english."
+      ],
+      "considerations": [
+        "No direct profession preference match was found.",
+        "No direct values preference match was found.",
+        "The pets preferences need further discussion."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "9993c50c-4fa4-4aac-a556-0388a587d085",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-090",
+    "score": 60,
+    "scoreBreakdown": {
+      "mutualPreferences": 10,
+      "familyExpectations": 0,
+      "lifestyle": 25,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 60/100. The candidate is younger, matching the configured preference.",
+      "strengths": [
+        "The candidate is younger, matching the configured preference.",
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Shared languages: english."
+      ],
+      "considerations": [
+        "No direct profession preference match was found.",
+        "No direct values preference match was found.",
+        "The pets preferences need further discussion."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "2216bb27-9d91-467a-963b-978b35cfb903",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-105",
+    "score": 60,
+    "scoreBreakdown": {
+      "mutualPreferences": 10,
+      "familyExpectations": 0,
+      "lifestyle": 25,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 60/100. The candidate is younger, matching the configured preference.",
+      "strengths": [
+        "The candidate is younger, matching the configured preference.",
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Shared languages: english."
+      ],
+      "considerations": [
+        "No direct profession preference match was found.",
+        "No direct values preference match was found.",
+        "The pets preferences need further discussion."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "4ce323d8-a6aa-47d9-a27e-5eb5237c24ee",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-073",
+    "score": 55,
+    "scoreBreakdown": {
+      "mutualPreferences": 2.5,
+      "familyExpectations": 2.5,
+      "lifestyle": 25,
+      "careerAndEducation": 15,
+      "locationAndRelocation": 5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 55/100. The candidate is younger, matching the configured preference.",
+      "strengths": [
+        "The candidate is younger, matching the configured preference.",
+        "The candidate is shorter, matching the configured preference.",
+        "The candidate earns less, matching the configured rule.",
+        "Shared languages: english."
+      ],
+      "considerations": [
+        "The children preferences need further discussion.",
+        "No direct profession preference match was found."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  },
+  {
+    "id": "8817f787-2519-4f7e-99f8-70713082b045",
+    "customerId": "seed-customer-011",
+    "candidateCustomerId": "seed-customer-083",
+    "score": 55,
+    "scoreBreakdown": {
+      "mutualPreferences": 25,
+      "familyExpectations": 2.5,
+      "lifestyle": 10,
+      "careerAndEducation": 5,
+      "locationAndRelocation": 7.5,
+      "language": 5
+    },
+    "explanation": {
+      "summary": "Compatibility score 55/100. The candidate is shorter, matching the configured preference.",
+      "strengths": [
+        "The candidate is shorter, matching the configured preference.",
+        "Both profiles have compatible children preferences.",
+        "Both profiles selected \"maybe\" for relocation.",
+        "Shared languages: english.",
+        "Both profiles have compatible pets preferences."
+      ],
+      "considerations": [
+        "The candidate is not younger than the customer.",
+        "The candidate does not earn less than the customer.",
+        "No direct profession preference match was found."
+      ],
+      "generatedBy": "RULES"
+    },
+    "status": "SUGGESTED",
+    "matchmakerId": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "createdAt": "2026-10-15T16:55:02.189Z",
+    "updatedAt": "2026-10-15T16:55:02.189Z"
+  }
+]

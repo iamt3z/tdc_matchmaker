@@ -1,0 +1,11 @@
+[
+  {
+    "id": "07d7579f-8537-4de4-ab0a-6a602cdf1fb8",
+    "username": "admin",
+    "displayName": "TDC Matchmaker",
+    "passwordHash": "$2b$08$73zieDRwhvTqLZX69nAZIe8..R7SiGoVWAZ/vqJsen3FCrxMFq99G",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-15T16:40:35.188Z",
+    "updatedAt": "2026-10-15T16:40:35.188Z"
+  }
+]
